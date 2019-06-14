@@ -1,11 +1,14 @@
 *=============================14 June 2019======================================
 *=============================Sherry Lu=========================================
 *==========================prepare for batch 4 data=============================
-* Objective
- 
-/* A) dataset is on Household information*/
+* note: this code file is based on the structure from "report on household screener_w_LC comment.docx"
+* the main task here is to summarize patterns and report for household information data. 
+* data on screener is from Batch4, HB: pcg relationship to HoH and sets E is from batch4
+* CB: relationship to child, H2-H3 whether mom/dad work is from batch3(not final)
+* all combine together is "S_report_prepared_B4"
+* in the future when CB_batch 4 is ready, the data on CB could simply be replaced using the following code
 
-*looking for some patterns
+
 *1.family members- how many kids, family members
 *2.living arrangement - with grandparents, with helpers
 *3.type of household - HDB/condo
